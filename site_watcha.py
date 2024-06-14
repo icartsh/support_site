@@ -269,7 +269,7 @@ class SiteWatchaMovie(SiteWatcha):
 
 
 
-class SiteWatchaKTv(SiteWatcha):
+class SiteWatchaTv(SiteWatcha):
     module_char = 'F'
     site_char = 'X'
 
